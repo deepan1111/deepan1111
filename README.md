@@ -46,19 +46,6 @@ Tech → Firebase • AI API
 
 ---
 
-📈 **GitHub Activity**
-
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=deepanb07&show_icons=true&hide_border=true&theme=tokyonight"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanb07&layout=compact&hide_border=true&theme=tokyonight"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=deepanb07&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 🧭 **How I Think About Development**
 
 > _Build fast.  
