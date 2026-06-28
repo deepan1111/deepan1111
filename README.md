@@ -22,28 +22,21 @@ I enjoy solving real-world problems, iterating fast, and refining things until t
 
 🚀 **Projects I'm Proud Of**
 
-✨ **EduSched (School Timetable System)**  
-A real-use, role-based timetable system with teacher/admin access and automatic class notifications.  
+✨ **StudyMate**
+AI-powered study assistant that lets students chat with PDFs, organize study sessions, and track learning progress.
+Tech → React • TypeScript • FastAPI • FAISS • AI
+
+✨ **School Timetable System (EduSched)**
+Role-based timetable management with teacher/admin dashboards and automated class scheduling.
 Tech → MERN • JWT • MySQL
 
-✨ **Celebrica**  
-A modern event-booking and management platform with dashboards, auth, and a clean UI.  
-Tech → React • Firebase • Tailwind
+✨ **Celebrica**
+Modern event booking and management platform with authentication, dashboards, and responsive UI.
+Tech → React • Firebase • Tailwind CSS
 
-✨ **Event Management App**  
-CRUD workflow with admin approvals and responsive UI.  
-Tech → React • Firebase
-
-✨ **Finance Tracker**  
-Expense tracking app with analytics and persistent state.  
-Tech → React • LocalStorage
-
-✨ **Ayurgram (Prototype)**  
-An experimental Ayurvedic assistant using AI-powered suggestions.  
-Tech → Firebase • AI API
-
-(See pinned repos for live demos and screenshots.)
-
+✨ **CampusVoice**
+Anonymous campus discussion platform for students with real-time interactions.
+Tech → JavaScript • Firebase
 ---
 
 🧭 **How I Think About Development**
