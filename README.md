@@ -7,7 +7,7 @@
 ---
 
 💡 I’m passionate about turning ideas into functional and scalable software.  
-Right now, I'm exploring clean architecture, CI/CD, and improving how apps scale and perform in real environments.  
+Right now, I'm exploring clean architecture and improving how apps scale and perform in real environments.  
 I enjoy solving real-world problems, iterating fast, and refining things until they feel right.
 
 ---
@@ -34,9 +34,6 @@ Tech → MERN • JWT • MySQL
 Modern event booking and management platform with authentication, dashboards, and responsive UI.
 Tech → React • Firebase • Tailwind CSS
 
-✨ **CampusVoice**
-Anonymous campus discussion platform for students with real-time interactions.
-Tech → JavaScript • Firebase
 ---
 
 🧭 **How I Think About Development**
