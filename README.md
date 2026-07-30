@@ -26,9 +26,9 @@ I enjoy solving real-world problems, iterating fast, and refining things until t
 AI-powered study assistant that lets students chat with PDFs, organize study sessions, and track learning progress.
 Tech → React • TypeScript • FastAPI • FAISS • AI
 
-✨ **School Timetable System (EduSched)**
-Role-based timetable management with teacher/admin dashboards and automated class scheduling.
-Tech → MERN • JWT • MySQL
+✨ CampusVoice
+AI-powered complaint management platform with secure authentication, complaint tracking, and intelligent categorization.
+Tech → React • Node.js • Express • MongoDB • JWT • Gemini AI
 
 ✨ **Celebrica**
 Modern event booking and management platform with authentication, dashboards, and responsive UI.
@@ -48,9 +48,9 @@ Repeat._
 
 📬 **Connect With Me**
 
-Portfolio — Coming Soon  
-LinkedIn — Updating  
-Email — (will add later)
+
+LinkedIn — www.linkedin.com/in/deepan1  
+Email — deepanb777@gmail.com
 
 ---
 
